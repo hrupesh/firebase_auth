@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet, Text, View, StatusBar} from "react-native";
+import { StyleSheet, Text, View, StatusBar } from "react-native";
 
 export default function App() {
   return (
@@ -10,10 +10,10 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
-    view:{
-        padding:10,
-        backgroundColor:"#000D",
-        height:"100%",
-        color:"#fff"
-    }
+  view: {
+    padding: 10,
+    backgroundColor: "#000D",
+    height: "100%",
+    color: "#fff",
+  },
 });
